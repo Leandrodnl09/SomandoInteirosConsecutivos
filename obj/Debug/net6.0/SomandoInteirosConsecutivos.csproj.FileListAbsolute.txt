@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\bin\Debug\net6.0\SomandoInteirosConsecutivos.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\bin\Debug\net6.0\SomandoInteirosConsecutivos.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\bin\Debug\net6.0\SomandoInteirosConsecutivos.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\bin\Debug\net6.0\SomandoInteirosConsecutivos.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\bin\Debug\net6.0\SomandoInteirosConsecutivos.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\refint\SomandoInteirosConsecutivos.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\SomandoInteirosConsecutivos.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\SomandoInteirosConsecutivos\obj\Debug\net6.0\ref\SomandoInteirosConsecutivos.dll
